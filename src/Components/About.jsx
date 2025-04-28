@@ -22,7 +22,7 @@ const About = () => {
     },
   });
   const [text] = useTypewriter({
-    words: ["Computer Engineer", "MeachineLearning Expart"],
+    words: ["Computer Engineer", "MeachineLearning Expert"],
     loop: {},
     typeSpeed: 120,
     deleteSpeed: 40,
