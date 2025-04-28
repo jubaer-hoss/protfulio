@@ -80,7 +80,7 @@ const About = () => {
               href={cv}
               className="btn   text-xl font-semibold btn-secondary bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600"
             >
-              Dounlod Resume <FaDownload />
+              Download Resume <FaDownload />
             </a>
             {/* <Link
               to="/contact"
